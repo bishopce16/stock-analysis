@@ -349,14 +349,15 @@ Refactoring the code involved first copying the original code and changing the n
 
 Below are two screenshots that show the original code’s run times.
 
-![VBA green stock original 2017 pop out message](week_2/original_VBA_screenshot/green_stock_VBA_2017_popout.png)
+![green_stock_VBA_2017_popout.png](https://github.com/bishopce16/stock-analysis/blob/main/Resources/green_stock_VBA_2017_popout.png)
 
-![VBA green stock original 2018 pop out message](week_2/original_VBA_screenshot/green_stock_VBA_2018_popout.png)
+![green_stock_VBA_2018_popout.png](https://github.com/bishopce16/stock-analysis/blob/main/Resources/green_stock_VBA_2018_popout.png)
+
 Below are two screenshots that show the run time for the refactored code.
 
-![VBA Challenge 2017 popout message](week_2/Resources/VBA_Challenge_2017.png)
+![VBA Challenge 2017 popout message](https://github.com/bishopce16/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-![VBA Challenge 2018 popout message](week_2/Resources/VBA_Challenge_2018.png)
+![VBA Challenge 2018 popout message](https://github.com/bishopce16/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 The run times indicate the refactored code runs about 0.2 seconds faster than the original code which is more efficient. 
 
